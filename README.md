@@ -19,3 +19,7 @@ Kullanıcı deneyimini (UX) merkeze alan; dinamik sepet yönetimi, ürün listel
 - **Frontend:** HTML5, CSS3, JavaScript, Bootstrap (Responsive / Mobil Uyumlu Tasarım)
 - **Veri Saklama:** JSON (JavaScript Object Notation)
 
+## Katkıda Bulunanlar (Contributors)
+* **Nisa Nur Doğan** - *Geliştirici* - [nisanur-dogan](https://github.com/nisanur-dogan)
+
+
