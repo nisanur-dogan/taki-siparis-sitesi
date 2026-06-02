@@ -1,0 +1,50 @@
+[
+    {
+        "id": 2,
+        "name": "Taşlı Kolye",
+        "price": 260,
+        "description": "Altın taş detaylı kolye",
+        "image": "img_694113f382f75.webp",
+        "category": "Kolye"
+    },
+    {
+        "id": 3,
+        "name": "Kar Tanesi Küpe",
+        "price": 250,
+        "description": "Altın taş detaylı kar tanesi küpe",
+        "category": "Küpe",
+        "image": "img_6941143343469.webp"
+    },
+    {
+        "id": 4,
+        "name": "Sarmal Yüzük",
+        "price": 200,
+        "description": "Gümüş taş detaylı sarmal yüzük",
+        "image": "img_694114b5c78c5.webp",
+        "category": "Yüzük"
+    },
+    {
+        "id": 5,
+        "name": "Kalp Kolye",
+        "price": 250,
+        "description": "Gümüş taş detaylı kalp kolye",
+        "image": "img_694115795017d.webp",
+        "category": "Kolye"
+    },
+    {
+        "id": 6,
+        "name": "Çelik Bileklik",
+        "price": 235,
+        "description": "Altın renkli çelik zincir bileklik",
+        "image": "img_694115ca86134.jpg",
+        "category": "Bileklik"
+    },
+    {
+        "id": 7,
+        "name": "Gümüş Küpe",
+        "price": 200,
+        "description": "Gümüş taş detaylı sarmal halka küpe",
+        "image": "img_694123d805b79.webp",
+        "category": "Küpe"
+    }
+]

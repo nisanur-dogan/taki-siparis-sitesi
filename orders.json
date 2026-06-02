@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "username": "Nisa",
+        "customer_name": "Nisa",
+        "phone": "5656",
+        "address": "Sakarya Caddesi",
+        "items": [
+            {
+                "product_id": 3,
+                "name": "Kar Tanesi Küpe",
+                "quantity": 2,
+                "price": 250
+            },
+            {
+                "product_id": 4,
+                "name": "Sarmal Yüzük",
+                "quantity": 1,
+                "price": 200
+            }
+        ],
+        "total": 700,
+        "status": "Alındı",
+        "date": "2025-12-16 12:40:44"
+    }
+]
